@@ -1,3 +1,3 @@
-# challenge-github_first_repository
+# challenge-github-first-repository
 Project Challenge about Git/GitHub
 
